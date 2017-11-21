@@ -123,9 +123,9 @@ int threadContextJob(int nbMesure, int nbFois, int explicite, int policity){
     error = pthread_attr_init(&attr);
     ERROR_THREAD(error, "Error  attr pthread_attr_init in threadContext : thread.c");
     if(explicite == 1){
-        error = sem_init(&sem1, 1, 1);
+        error = sem_init(&sem1, 0, 1);
         ERROR_SEM(error, "Error sem1 sem_init in threadContext : thread.c");
-        error = sem_init(&sem2, 1, 0);
+        error = sem_init(&sem2, 0, 0);
         ERROR_SEM(error, "Error sem2 sem_init in threadContext : thread.c");
     }
     if(policity != SCHED_OTHER){

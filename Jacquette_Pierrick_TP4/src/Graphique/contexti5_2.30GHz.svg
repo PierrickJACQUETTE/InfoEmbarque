@@ -1,0 +1,937 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1400"
+   height="1250"
+   viewBox="0 0 1400 1250"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="contexti5_2.30GHz.svg">
+  <metadata
+     id="metadata425">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs423" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     id="namedview421"
+     showgrid="false"
+     inkscape:zoom="0.7552"
+     inkscape:cx="703.41653"
+     inkscape:cy="610.69255"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g387" />
+  <title
+     id="title4">Gnuplot</title>
+  <desc
+     id="desc6">Produced by GNUPLOT 4.6 patchlevel 4 </desc>
+  <g
+     id="gnuplot_canvas">
+    <rect
+       x="0"
+       y="0"
+       width="1400"
+       height="1250"
+       fill="none"
+       id="rect9" />
+    <defs
+       id="defs11">
+      <circle
+         id="gpDot"
+         r="0.5"
+         stroke-width="0.5" />
+      <path
+         id="gpPt0"
+         stroke-width="0.222"
+         stroke="currentColor"
+         d="M-1,0 h2 M0,-1 v2" />
+      <path
+         id="gpPt1"
+         stroke-width="0.222"
+         stroke="currentColor"
+         d="M-1,-1 L1,1 M1,-1 L-1,1" />
+      <path
+         id="gpPt2"
+         stroke-width="0.222"
+         stroke="currentColor"
+         d="M-1,0 L1,0 M0,-1 L0,1 M-1,-1 L1,1 M-1,1 L1,-1" />
+      <rect
+         id="gpPt3"
+         stroke-width="0.222"
+         stroke="currentColor"
+         x="-1"
+         y="-1"
+         width="2"
+         height="2" />
+      <rect
+         id="gpPt4"
+         stroke-width="0.222"
+         stroke="currentColor"
+         fill="currentColor"
+         x="-1"
+         y="-1"
+         width="2"
+         height="2" />
+      <circle
+         id="gpPt5"
+         stroke-width="0.222"
+         stroke="currentColor"
+         cx="0"
+         cy="0"
+         r="1" />
+      <use
+         xlink:href="#gpPt5"
+         id="gpPt6"
+         fill="currentColor"
+         stroke="none" />
+      <path
+         id="gpPt7"
+         stroke-width="0.222"
+         stroke="currentColor"
+         d="M0,-1.33 L-1.33,0.67 L1.33,0.67 z" />
+      <use
+         xlink:href="#gpPt7"
+         id="gpPt8"
+         fill="currentColor"
+         stroke="none" />
+      <use
+         xlink:href="#gpPt7"
+         id="gpPt9"
+         stroke="currentColor"
+         transform="rotate(180)" />
+      <use
+         xlink:href="#gpPt9"
+         id="gpPt10"
+         fill="currentColor"
+         stroke="none" />
+      <use
+         xlink:href="#gpPt3"
+         id="gpPt11"
+         stroke="currentColor"
+         transform="rotate(45)" />
+      <use
+         xlink:href="#gpPt11"
+         id="gpPt12"
+         fill="currentColor"
+         stroke="none" />
+    </defs>
+    <g
+       style="fill:none; color:white; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter"
+       id="g27" />
+    <g
+       style="fill:none; color:black; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter"
+       id="g29">
+      <path
+         d="M210.0,944.0 L219.0,944.0 M1375.0,944.0 L1366.0,944.0  h0.01"
+         id="path31"
+         stroke="black" />
+      <g
+         transform="translate(201.7,951.5)"
+         style="stroke:none; fill:black; font-family:Times-Roman; font-size:20.00pt; text-anchor:end"
+         id="g33">
+        <text
+           id="text35">0.01</text>
+      </g>
+      <path
+         d="M210.0,854.7 L214.5,854.7 M1375.0,854.7 L1370.5,854.7 M210.0,802.5 L214.5,802.5 M1375.0,802.5 L1370.5,802.5    M210.0,765.4 L214.5,765.4 M1375.0,765.4 L1370.5,765.4 M210.0,736.7 L214.5,736.7 M1375.0,736.7 L1370.5,736.7    M210.0,713.2 L214.5,713.2 M1375.0,713.2 L1370.5,713.2 M210.0,693.3 L214.5,693.3 M1375.0,693.3 L1370.5,693.3    M210.0,676.1 L214.5,676.1 M1375.0,676.1 L1370.5,676.1 M210.0,660.9 L214.5,660.9 M1375.0,660.9 L1370.5,660.9    M210.0,647.4 L219.0,647.4 M1375.0,647.4 L1366.0,647.4  h0.01"
+         id="path37"
+         stroke="black" />
+      <g
+         transform="translate(201.7,654.9)"
+         style="stroke:none; fill:black; font-family:Times-Roman; font-size:20.00pt; text-anchor:end"
+         id="g39">
+        <text
+           id="text41">0.10</text>
+      </g>
+      <path
+         d="M210.0,558.1 L214.5,558.1 M1375.0,558.1 L1370.5,558.1 M210.0,505.8 L214.5,505.8 M1375.0,505.8 L1370.5,505.8    M210.0,468.8 L214.5,468.8 M1375.0,468.8 L1370.5,468.8 M210.0,440.0 L214.5,440.0 M1375.0,440.0 L1370.5,440.0    M210.0,416.5 L214.5,416.5 M1375.0,416.5 L1370.5,416.5 M210.0,396.7 L214.5,396.7 M1375.0,396.7 L1370.5,396.7    M210.0,379.5 L214.5,379.5 M1375.0,379.5 L1370.5,379.5 M210.0,364.3 L214.5,364.3 M1375.0,364.3 L1370.5,364.3    M210.0,350.7 L219.0,350.7 M1375.0,350.7 L1366.0,350.7  h0.01"
+         id="path43"
+         stroke="black" />
+      <g
+         transform="translate(201.7,358.2)"
+         style="stroke:none; fill:black; font-family:Times-Roman; font-size:20.00pt; text-anchor:end"
+         id="g45">
+        <text
+           id="text47">1.00</text>
+      </g>
+      <path
+         d="M210.0,261.4 L214.5,261.4 M1375.0,261.4 L1370.5,261.4 M210.0,209.2 L214.5,209.2 M1375.0,209.2 L1370.5,209.2    M210.0,172.1 L214.5,172.1 M1375.0,172.1 L1370.5,172.1 M210.0,143.4 L214.5,143.4 M1375.0,143.4 L1370.5,143.4    M210.0,119.9 L214.5,119.9 M1375.0,119.9 L1370.5,119.9 M210.0,100.0 L214.5,100.0 M1375.0,100.0 L1370.5,100.0    M210.0,82.8 L214.5,82.8 M1375.0,82.8 L1370.5,82.8 M210.0,67.7 L214.5,67.7 M1375.0,67.7 L1370.5,67.7    M210.0,54.1 L219.0,54.1 M1375.0,54.1 L1366.0,54.1  h0.01"
+         id="path49"
+         stroke="black" />
+      <g
+         transform="translate(201.7,61.6)"
+         style="stroke:none; fill:black; font-family:Times-Roman; font-size:20.00pt; text-anchor:end"
+         id="g51">
+        <text
+           id="text53">10.00</text>
+      </g>
+      <path
+         d="M501.3,944.0 L501.3,44.0 M501.3,54.1 L501.3,954.1  h0.01"
+         id="path55"
+         stroke="black" />
+      <g
+         transform="translate(508.8,952.3) rotate(45)"
+         style="stroke:none; fill:black; font-family:Times-Roman; font-size:20.00pt; text-anchor:start"
+         id="g57">
+        <text
+           id="text59">100</text>
+      </g>
+      <path
+         d="M792.5,944.0 L792.5,44.0 M792.5,54.1 L792.5,954.1  h0.01"
+         id="path61"
+         stroke="black" />
+      <g
+         transform="translate(800.0,952.3) rotate(45)"
+         style="stroke:none; fill:black; font-family:Times-Roman; font-size:20.00pt; text-anchor:start"
+         id="g63">
+        <text
+           id="text65">1000</text>
+      </g>
+      <path
+         d="M1083.8,944.0 L1083.8,44.0 M1083.8,54.1 L1083.8,954.1  h0.01"
+         id="path67"
+         stroke="black" />
+      <g
+         transform="translate(1091.3,952.3) rotate(45)"
+         style="stroke:none; fill:black; font-family:Times-Roman; font-size:20.00pt; text-anchor:start"
+         id="g69">
+        <text
+           id="text71">10000</text>
+      </g>
+      <path
+         d="M210.0,54.1 L210.0,944.0 L1375.0,944.0 L1375.0,54.1 L210.0,54.1 Z  h0.01"
+         id="path73"
+         stroke="black" />
+      <g
+         transform="translate(85.9,499.1) rotate(270)"
+         style="stroke:none; fill:black; font-family:Times-Roman; font-size:25.00pt; text-anchor:middle"
+         id="g75">
+        <text
+           id="text77">Temps en microseconde (us)</text>
+      </g>
+      <g
+         transform="translate(792.5,1045.7)"
+         style="stroke:none; fill:black; font-family:Times-Roman; font-size:25.00pt; text-anchor:middle"
+         id="g79">
+        <text
+           id="text81">Nombre de mesure</text>
+      </g>
+      <g
+         transform="translate(792.5,38.3)"
+         style="stroke:none; fill:black; font-family:Times-Roman; font-size:30.00pt; text-anchor:middle"
+         id="g83">
+        <text
+           id="text85">Changement de contexte</text>
+      </g>
+    </g>
+    <g
+       id="gnuplot_plot_1">
+      <title
+         id="title88">gnuplot_plot_1</title>
+      <g
+         style="fill:none; color:red; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter"
+         id="g90">
+        <g
+           transform="translate(538.3,1096.4)"
+           style="stroke:none; fill:black; font-family:Arial; font-size:25.00pt; text-anchor:end"
+           id="g92">
+          <text
+             id="text94">ThreadImpliciteFIFO</text>
+        </g>
+        <g
+           style="stroke:none; shape-rendering:crispEdges"
+           id="g96">
+          <polygon
+             fill="rgb(255,   0,   0)"
+             points="546.6,1095.4 588.8,1095.4 588.8,1078.6 546.6,1078.6 "
+             id="polygon98" />
+        </g>
+        <path
+           stroke="black"
+           d="M546.6,1095.4 L588.8,1095.4 L588.8,1078.6 L546.6,1078.6 L546.6,1095.4 Z  h0.01"
+           id="path100" />
+        <g
+           style="stroke:none; shape-rendering:crispEdges"
+           id="g102">
+          <polygon
+             fill="rgb(255,   0,   0)"
+             points="393.2,944.0 415.2,944.0 415.2,420.7 393.2,420.7 "
+             id="polygon104" />
+        </g>
+        <path
+           stroke="black"
+           d="M393.2,944.0 L393.2,420.8 L415.1,420.8 L415.1,944.0 L393.2,944.0 Z  h0.01"
+           id="path106" />
+        <g
+           style="stroke:none;shape-rendering:crispEdges"
+           id="g108"
+           transform="matrix(0.99968887,0,0,1.0155098,0.21635389,-14.645529)">
+          <polygon
+             points="706.4,432.2 684.5,432.2 684.5,944 706.4,944 "
+             id="polygon110"
+             style="fill:#ff0000" />
+        </g>
+        <path
+           d="m 684.50339,943.99573 0,-519.63637 21.79322,0 0,519.63637 -21.79322,0 z m 0,0 0.01,0"
+           id="path112"
+           inkscape:connector-curvature="0"
+           style="stroke:#000000;stroke-width:1.00756824" />
+        <g
+           style="stroke:none; shape-rendering:crispEdges"
+           id="g114">
+          <polygon
+             fill="rgb(255,   0,   0)"
+             points="975.7,944.0 997.7,944.0 997.7,426.5 975.7,426.5 "
+             id="polygon116" />
+        </g>
+        <path
+           stroke="black"
+           d="M975.7,944.0 L975.7,426.6 L997.6,426.6 L997.6,944.0 L975.7,944.0 Z  h0.01"
+           id="path118" />
+      </g>
+    </g>
+    <g
+       id="gnuplot_plot_2">
+      <title
+         id="title121">gnuplot_plot_2</title>
+      <g
+         style="fill:none; color:green; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter"
+         id="g123">
+        <g
+           transform="translate(538.3,1130.1)"
+           style="stroke:none; fill:black; font-family:Arial; font-size:25.00pt; text-anchor:end"
+           id="g125">
+          <text
+             id="text127">ThreadImpliciteRR</text>
+        </g>
+        <g
+           style="stroke:none; shape-rendering:crispEdges"
+           id="g129">
+          <polygon
+             points="546.6,1129.1 588.8,1129.1 588.8,1112.3 546.6,1112.3 "
+             id="polygon131"
+             fill="rgb(  0,   0,   0)" />
+        </g>
+        <path
+           d="M546.6,1129.1 L588.8,1129.1 L588.8,1112.3 L546.6,1112.3 L546.6,1129.1 Z  h0.01"
+           id="path133"
+           stroke="black" />
+        <g
+           style="stroke:none;shape-rendering:crispEdges"
+           id="g135"
+           transform="matrix(0.99879874,0,0,1.0608649,0.51468014,-57.47275)">
+          <polygon
+             points="439.5,944 439.5,422.3 417.5,422.3 417.5,944 "
+             id="polygon137"
+             style="fill:#000000" />
+        </g>
+        <path
+           d="m 417.51315,943.98374 0,-553.34714 21.8737,0 0,553.34714 -21.8737,0 z m 0,0 0.01,0"
+           id="path139"
+           inkscape:connector-curvature="0"
+           style="stroke:#000000;stroke-width:1.02936411" />
+        <g
+           style="stroke:none;shape-rendering:crispEdges"
+           id="g141"
+           transform="matrix(0.99909534,0,0,1.045457,0.65108185,-42.923608)">
+          <polygon
+             points="730.7,944 730.7,420.1 708.8,420.1 708.8,944 "
+             id="polygon143"
+             style="fill:#000000" />
+        </g>
+        <path
+           d="m 708.80986,943.98782 0,-547.61039 21.78028,0 0,547.61039 -21.78028,0 z m 0,0 0.01,0"
+           id="path145"
+           inkscape:connector-curvature="0"
+           style="stroke:#000000;stroke-width:1.02201331" />
+        <g
+           style="stroke:none;shape-rendering:crispEdges"
+           id="g147"
+           transform="matrix(0.99939279,0,0,1.0305317,0.61385483,-28.830109)">
+          <polygon
+             points="1022,944 1022,424 1000,424 1000,944 "
+             id="polygon149"
+             style="fill:#000000" />
+        </g>
+        <path
+           d="m 1000.0066,943.99179 0,-535.77341 21.8868,0 0,535.77341 -21.8868,0 z m 0,0 0.01,0"
+           id="path151"
+           inkscape:connector-curvature="0"
+           style="stroke:#000000;stroke-width:1.01484287" />
+      </g>
+    </g>
+    <g
+       id="gnuplot_plot_3">
+      <title
+         id="title154">gnuplot_plot_3</title>
+      <g
+         style="fill:none; color:blue; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter"
+         id="g156">
+        <g
+           transform="translate(538.3,1163.8)"
+           style="stroke:none; fill:black; font-family:Arial; font-size:25.00pt; text-anchor:end"
+           id="g158">
+          <text
+             id="text160">ThreadExpliciteFIFO</text>
+        </g>
+        <g
+           style="stroke:none; shape-rendering:crispEdges"
+           id="g162">
+          <polygon
+             fill="rgb(  0, 255, 255)"
+             points="546.6,1162.8 588.8,1162.8 588.8,1146.0 546.6,1146.0 "
+             id="polygon164" />
+        </g>
+        <path
+           stroke="black"
+           d="M546.6,1162.8 L588.8,1162.8 L588.8,1146.0 L546.6,1146.0 L546.6,1162.8 Z  h0.01"
+           id="path166" />
+        <g
+           style="stroke:none;shape-rendering:crispEdges"
+           id="g168"
+           transform="matrix(0.99728087,0,0,1.1398079,1.2309483,-132.01546)">
+          <polygon
+             points="463.7,944 463.7,821.3 441.8,821.3 441.8,944 "
+             id="polygon170"
+             style="fill:#00ffff" />
+        </g>
+        <path
+           d="m 441.82964,943.96324 0,-139.74046 21.74072,0 0,139.74046 -21.74072,0 z m 0,0 0.01,0"
+           id="path172"
+           inkscape:connector-curvature="0"
+           style="stroke:#000000;stroke-width:1.06616545" />
+        <g
+           style="stroke:none;shape-rendering:crispEdges"
+           id="g174"
+           transform="matrix(0.99295562,0,0,1.3837912,5.2406648,-362.39555)">
+          <polygon
+             points="755,944 755,875.4 733,875.4 733,944 "
+             id="polygon176"
+             style="fill:#00ffff" />
+        </g>
+        <path
+           d="m 733.07714,943.90332 0,-94.78969 21.74572,0 0,94.78969 -21.74572,0 z m 0,0 0.01,0"
+           id="path178"
+           inkscape:connector-curvature="0"
+           style="stroke:#000000;stroke-width:1.17219591" />
+        <g
+           style="stroke:none; shape-rendering:crispEdges"
+           id="g180">
+          <polygon
+             fill="rgb(  0, 255, 255)"
+             points="1024.3,944.0 1046.2,944.0 1046.2,877.9 1024.3,877.9 "
+             id="polygon182" />
+        </g>
+        <path
+           stroke="black"
+           d="M1024.3,944.0 L1024.3,878.0 L1046.1,878.0 L1046.1,944.0 L1024.3,944.0 Z  h0.01"
+           id="path184" />
+      </g>
+    </g>
+    <g
+       id="gnuplot_plot_4">
+      <title
+         id="title187">gnuplot_plot_4</title>
+      <g
+         style="fill:none; color:cyan; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter"
+         id="g189">
+        <g
+           transform="translate(538.3,1197.5)"
+           style="stroke:none; fill:black; font-family:Arial; font-size:25.00pt; text-anchor:end"
+           id="g191">
+          <text
+             id="text193">ThreadExpliciteRR</text>
+        </g>
+        <g
+           style="stroke:none; shape-rendering:crispEdges"
+           id="g195">
+          <polygon
+             points="546.6,1196.5 588.8,1196.5 588.8,1179.7 546.6,1179.7 "
+             id="polygon197"
+             fill="rgb(  0, 255,   0)" />
+        </g>
+        <path
+           d="M546.6,1196.5 L588.8,1196.5 L588.8,1179.7 L546.6,1179.7 L546.6,1196.5 Z  h0.01"
+           id="path199"
+           stroke="black" />
+        <g
+           style="stroke:none; shape-rendering:crispEdges"
+           id="g201">
+          <polygon
+             points="466.1,944.0 488.0,944.0 488.0,821.5 466.1,821.5 "
+             id="polygon203"
+             fill="rgb(  0, 255,   0)" />
+        </g>
+        <path
+           d="M466.1,944.0 L466.1,821.6 L487.9,821.6 L487.9,944.0 L466.1,944.0 Z  h0.01"
+           id="path205"
+           stroke="black" />
+        <g
+           style="stroke:none;shape-rendering:crispEdges"
+           id="g207"
+           transform="matrix(0.99239907,0,0,1.4168927,5.8394158,-393.65112)">
+          <polygon
+             points="779.3,944 779.3,877.7 757.3,877.7 757.3,944 "
+             id="polygon209"
+             style="fill:#00ff00" />
+        </g>
+        <path
+           d="m 757.38323,943.89555 0,-93.7983 21.73354,0 0,93.7983 -21.73354,0 z m 0,0 0.01,0"
+           id="path211"
+           inkscape:connector-curvature="0"
+           style="stroke:#000000;stroke-width:1.18580055" />
+        <g
+           style="stroke:none;shape-rendering:crispEdges"
+           id="g213"
+           transform="matrix(1.0092354,0,0,0.59554457,-9.7849592,381.92728)">
+          <polygon
+             points="1070.5,944 1070.5,793.9 1048.6,793.9 1048.6,944 "
+             id="polygon215"
+             style="fill:#00ff00" />
+        </g>
+        <path
+           d="m 1048.4993,944.12135 0,-89.33168 22.0014,0 0,89.33168 -22.0014,0 z m 0,0 0.01,0"
+           id="path217"
+           inkscape:connector-curvature="0"
+           style="stroke:#000000;stroke-width:0.7752707" />
+      </g>
+    </g>
+    <g
+       id="gnuplot_plot_5">
+      <title
+         id="title220">gnuplot_plot_5</title>
+      <g
+         style="fill:none; color:#157545; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter"
+         id="g222">
+        <g
+           transform="translate(929.1,1096.4)"
+           style="stroke:none; fill:black; font-family:Arial; font-size:25.00pt; text-anchor:end"
+           id="g224">
+          <text
+             id="text226">ThreadExpliciteTP</text>
+        </g>
+        <g
+           style="stroke:none; shape-rendering:crispEdges"
+           id="g228">
+          <polygon
+             fill="rgb(108, 108, 108)"
+             points="937.4,1095.4 979.6,1095.4 979.6,1078.6 937.4,1078.6 "
+             id="polygon230" />
+        </g>
+        <path
+           stroke="black"
+           d="M937.4,1095.4 L979.6,1095.4 L979.6,1078.6 L937.4,1078.6 L937.4,1095.4 Z  h0.01"
+           id="path232" />
+        <g
+           style="stroke:none;shape-rendering:crispEdges"
+           id="g234"
+           transform="matrix(0.99611999,0,0,1.3429645,1.944855,-323.81133)">
+          <polygon
+             points="512.3,820.7 490.3,820.7 490.3,944 512.3,944 "
+             id="polygon236"
+             style="fill:#6c6c6c" />
+        </g>
+        <path
+           d="m 490.34249,943.94715 0,-148.2532 21.81502,0 0,148.2532 -21.81502,0 z m 0,0 0.01,0"
+           id="path238"
+           inkscape:connector-curvature="0"
+           style="stroke:#000000;stroke-width:1.0948447" />
+        <g
+           style="stroke:none;shape-rendering:crispEdges"
+           id="g240"
+           transform="matrix(0.99007801,0,0,1.5566054,7.8631735,-525.572)">
+          <polygon
+             points="803.5,944 803.5,875.4 781.6,875.4 781.6,944 "
+             id="polygon242"
+             style="fill:#6c6c6c" />
+        </g>
+        <path
+           d="m 781.70815,943.86352 0,-106.62747 21.5837,0 0,106.62747 -21.5837,0 z m 0,0 0.01,0"
+           id="path244"
+           inkscape:connector-curvature="0"
+           style="stroke:#000000;stroke-width:1.24143493" />
+        <g
+           style="stroke:none;shape-rendering:crispEdges"
+           id="g246"
+           transform="matrix(0.99346834,0,0,1.3536596,7.0786886,-333.94416)">
+          <polygon
+             points="1094.8,944 1094.8,884.5 1072.8,884.5 1072.8,944 "
+             id="polygon248"
+             style="fill:#6c6c6c" />
+        </g>
+        <path
+           d="m 1072.8715,943.91047 0,-80.40738 21.757,0 0,80.40738 -21.757,0 z m 0,0 0.01,0"
+           id="path250"
+           inkscape:connector-curvature="0"
+           style="stroke:#000000;stroke-width:1.15966284" />
+      </g>
+    </g>
+    <g
+       id="gnuplot_plot_6">
+      <title
+         id="title253">gnuplot_plot_6</title>
+      <g
+         style="fill:none; color:#000094; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter"
+         id="g255">
+        <g
+           transform="translate(929.1,1130.1)"
+           style="stroke:none; fill:black; font-family:Arial; font-size:25.00pt; text-anchor:end"
+           id="g257">
+          <text
+             id="text259">ProcessusExpliciteTP</text>
+        </g>
+        <g
+           style="stroke:none; shape-rendering:crispEdges"
+           id="g261">
+          <polygon
+             points="937.4,1129.1 979.6,1129.1 979.6,1112.3 937.4,1112.3 "
+             id="polygon263"
+             fill="rgb(255,   0, 255)" />
+        </g>
+        <path
+           d="M937.4,1129.1 L979.6,1129.1 L979.6,1112.3 L937.4,1112.3 L937.4,1129.1 Z  h0.01"
+           id="path265"
+           stroke="black" />
+        <g
+           style="stroke:none;shape-rendering:crispEdges"
+           id="g267"
+           transform="matrix(0.99919122,0,0,1.0405896,0.42501421,-38.327449)">
+          <polygon
+             points="536.5,944 536.5,324.6 514.6,324.6 514.6,944 "
+             id="polygon269"
+             style="fill:#ff00ff" />
+        </g>
+        <path
+           d="m 514.60882,943.98911 0,-644.43712 21.78236,0 0,644.43712 -21.78236,0 z m 0,0 0.01,0"
+           id="path271"
+           inkscape:connector-curvature="0"
+           style="stroke:#000000;stroke-width:1.01968038" />
+        <g
+           style="stroke:none; shape-rendering:crispEdges"
+           id="g273">
+          <polygon
+             points="805.8,944.0 827.8,944.0 827.8,375.0 805.8,375.0 "
+             id="polygon275"
+             fill="rgb(255,   0, 255)" />
+        </g>
+        <path
+           d="M805.8,944.0 L805.8,375.1 L827.7,375.1 L827.7,944.0 L805.8,944.0 Z  h0.01"
+           id="path277"
+           stroke="black" />
+        <g
+           style="stroke:none; shape-rendering:crispEdges"
+           id="g279">
+          <polygon
+             points="1097.1,944.0 1119.0,944.0 1119.0,618.1 1097.1,618.1 "
+             id="polygon281"
+             fill="rgb(255,   0, 255)" />
+        </g>
+        <path
+           d="M1097.1,944.0 L1097.1,618.2 L1118.9,618.2 L1118.9,944.0 L1097.1,944.0 Z  h0.01"
+           id="path283"
+           stroke="black" />
+      </g>
+    </g>
+    <g
+       id="gnuplot_plot_7">
+      <title
+         id="title286">gnuplot_plot_7</title>
+      <g
+         style="fill:none; color:#FF9900; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter"
+         id="g288">
+        <g
+           transform="translate(929.1,1163.8)"
+           style="stroke:none; fill:black; font-family:Arial; font-size:25.00pt; text-anchor:end"
+           id="g290">
+          <text
+             id="text292">ProcessusImpliciteFIFO</text>
+        </g>
+        <g
+           style="stroke:none; shape-rendering:crispEdges"
+           id="g294">
+          <polygon
+             fill="rgb(116,  53,   0)"
+             points="937.4,1162.8 979.6,1162.8 979.6,1146.0 937.4,1146.0 "
+             id="polygon296" />
+        </g>
+        <path
+           stroke="black"
+           d="M937.4,1162.8 L979.6,1162.8 L979.6,1146.0 L937.4,1146.0 L937.4,1162.8 Z  h0.01"
+           id="path298" />
+        <g
+           style="stroke:none; shape-rendering:crispEdges"
+           id="g300">
+          <polygon
+             fill="rgb(116,  53,   0)"
+             points="538.9,944.0 560.8,944.0 560.8,393.8 538.9,393.8 "
+             id="polygon302" />
+        </g>
+        <path
+           stroke="black"
+           d="M538.9,944.0 L538.9,393.9 L560.7,393.9 L560.7,944.0 L538.9,944.0 Z  h0.01"
+           id="path304" />
+        <g
+           style="stroke:none; shape-rendering:crispEdges"
+           id="g306">
+          <polygon
+             fill="rgb(116,  53,   0)"
+             points="830.1,944.0 852.1,944.0 852.1,392.8 830.1,392.8 "
+             id="polygon308" />
+        </g>
+        <path
+           stroke="black"
+           d="M830.1,944.0 L830.1,392.9 L852.0,392.9 L852.0,944.0 L830.1,944.0 Z  h0.01"
+           id="path310" />
+        <g
+           style="stroke:none; shape-rendering:crispEdges"
+           id="g312">
+          <polygon
+             fill="rgb(116,  53,   0)"
+             points="1121.4,944.0 1143.3,944.0 1143.3,397.5 1121.4,397.5 "
+             id="polygon314" />
+        </g>
+        <path
+           stroke="black"
+           d="M1121.4,944.0 L1121.4,397.6 L1143.2,397.6 L1143.2,944.0 L1121.4,944.0 Z  h0.01"
+           id="path316" />
+      </g>
+    </g>
+    <g
+       id="gnuplot_plot_8">
+      <title
+         id="title319">gnuplot_plot_8</title>
+      <g
+         style="fill:none; color:#0099A1; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter"
+         id="g321">
+        <g
+           transform="translate(929.1,1197.5)"
+           style="stroke:none; fill:black; font-family:Arial; font-size:25.00pt; text-anchor:end"
+           id="g323">
+          <text
+             id="text325">ProcessusImpliciteRR</text>
+        </g>
+        <g
+           style="stroke:none; shape-rendering:crispEdges"
+           id="g327">
+          <polygon
+             fill="rgb(  0, 100,   0)"
+             points="937.4,1196.5 979.6,1196.5 979.6,1179.7 937.4,1179.7 "
+             id="polygon329" />
+        </g>
+        <path
+           stroke="black"
+           d="M937.4,1196.5 L979.6,1196.5 L979.6,1179.7 L937.4,1179.7 L937.4,1196.5 Z  h0.01"
+           id="path331" />
+        <g
+           style="stroke:none;shape-rendering:crispEdges"
+           id="g333"
+           transform="matrix(0.99952087,0,0,1.024052,0.27504461,-22.711526)">
+          <polygon
+             points="585.1,944 585.1,393.9 563.1,393.9 563.1,944 "
+             id="polygon335"
+             style="fill:#006400" />
+        </g>
+        <path
+           d="m 563.10525,943.99353 0,-563.22858 21.8895,0 0,563.22858 -21.8895,0 z m 0,0 0.01,0"
+           id="path337"
+           inkscape:connector-curvature="0"
+           style="stroke:#000000;stroke-width:1.01171207" />
+        <g
+           style="stroke:none; shape-rendering:crispEdges"
+           id="g339">
+          <polygon
+             fill="rgb(  0, 100,   0)"
+             points="854.4,944.0 876.3,944.0 876.3,390.8 854.4,390.8 "
+             id="polygon341" />
+        </g>
+        <path
+           d="M854.4,944.0 L854.4,390.9 L876.2,390.9 L876.2,944.0 L854.4,944.0 Z  h0.01"
+           id="path343"
+           stroke="black" />
+        <g
+           style="stroke:none;shape-rendering:crispEdges"
+           id="g345"
+           transform="matrix(1.0015337,0,0,0.9250046,-1.7738338,70.816283)">
+          <polygon
+             points="1167.6,944 1167.6,397.1 1145.6,397.1 1145.6,944 "
+             id="polygon347"
+             style="fill:#006400" />
+        </g>
+        <path
+           d="m 1145.5832,944.02062 0,-505.79251 21.9336,0 0,505.79251 -21.9336,0 z m 0,0 0.01,0"
+           id="path349"
+           inkscape:connector-curvature="0"
+           style="stroke:#000000;stroke-width:0.96250886" />
+      </g>
+    </g>
+    <g
+       id="gnuplot_plot_9">
+      <title
+         id="title352">gnuplot_plot_9</title>
+      <g
+         style="fill:none; color:#D6D645; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter"
+         id="g354">
+        <g
+           transform="translate(1319.9,1096.4)"
+           style="stroke:none; fill:black; font-family:Arial; font-size:25.00pt; text-anchor:end"
+           id="g356">
+          <text
+             id="text358">ProcessusExpliciteFIFO</text>
+        </g>
+        <g
+           style="stroke:none; shape-rendering:crispEdges"
+           id="g360">
+          <polygon
+             fill="rgb(  0,   0, 255)"
+             points="1328.2,1095.4 1370.4,1095.4 1370.4,1078.6 1328.2,1078.6 "
+             id="polygon362" />
+        </g>
+        <path
+           stroke="black"
+           d="M1328.2,1095.4 L1370.4,1095.4 L1370.4,1078.6 L1328.2,1078.6 L1328.2,1095.4 Z  h0.01"
+           id="path364" />
+        <g
+           style="stroke:none; shape-rendering:crispEdges"
+           id="g366">
+          <polygon
+             fill="rgb(  0,   0, 255)"
+             points="587.4,944.0 609.4,944.0 609.4,810.5 587.4,810.5 "
+             id="polygon368" />
+        </g>
+        <path
+           stroke="black"
+           d="M587.4,944.0 L587.4,810.6 L609.3,810.6 L609.3,944.0 L587.4,944.0 Z  h0.01"
+           id="path370" />
+        <g
+           style="stroke:none;shape-rendering:crispEdges"
+           id="g372"
+           transform="matrix(0.99251984,0,0,1.4076944,6.6543486,-384.96579)">
+          <polygon
+             points="900.6,944 900.6,869.7 878.7,869.7 878.7,944 "
+             id="polygon374"
+             style="fill:#0000ff" />
+        </g>
+        <path
+           d="m 878.78153,943.89771 0,-104.45093 21.63694,0 0,104.45093 -21.63694,0 z m 0,0 0.01,0"
+           id="path376"
+           inkscape:connector-curvature="0"
+           style="stroke:#000000;stroke-width:1.18201721" />
+        <g
+           style="stroke:none; shape-rendering:crispEdges"
+           id="g378">
+          <polygon
+             fill="rgb(  0,   0, 255)"
+             points="1169.9,944.0 1191.9,944.0 1191.9,886.6 1169.9,886.6 "
+             id="polygon380" />
+        </g>
+        <path
+           stroke="black"
+           d="M1169.9,944.0 L1169.9,886.7 L1191.8,886.7 L1191.8,944.0 L1169.9,944.0 Z  h0.01"
+           id="path382" />
+      </g>
+    </g>
+    <g
+       id="gnuplot_plot_10">
+      <title
+         id="title385">gnuplot_plot_10</title>
+      <g
+         style="fill:none; color:#A391FF; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter"
+         id="g387">
+        <g
+           transform="translate(1319.9,1130.1)"
+           style="stroke:none; fill:black; font-family:Arial; font-size:25.00pt; text-anchor:end"
+           id="g389">
+          <text
+             id="text391">ProcessusExpliciteRR</text>
+        </g>
+        <g
+           style="stroke:none; shape-rendering:crispEdges"
+           id="g393">
+          <polygon
+             fill="rgb(255, 255,   0)"
+             points="1328.2,1129.1 1370.4,1129.1 1370.4,1112.3 1328.2,1112.3 "
+             id="polygon395" />
+        </g>
+        <path
+           stroke="black"
+           d="M1328.2,1129.1 L1370.4,1129.1 L1370.4,1112.3 L1328.2,1112.3 L1328.2,1129.1 Z  h0.01"
+           id="path397" />
+        <g
+           style="stroke:none; shape-rendering:crispEdges"
+           id="g399">
+          <polygon
+             fill="rgb(255, 255,   0)"
+             points="611.7,944.0 633.6,944.0 633.6,809.5 611.7,809.5 "
+             id="polygon401" />
+        </g>
+        <path
+           stroke="black"
+           d="M611.7,944.0 L611.7,809.6 L633.5,809.6 L633.5,944.0 L611.7,944.0 Z  h0.01"
+           id="path403" />
+        <g
+           style="stroke:none;shape-rendering:crispEdges"
+           id="g405"
+           transform="matrix(0.99383394,0,0,1.3323856,5.6348523,-313.85644)">
+          <polygon
+             points="924.9,944 924.9,872.7 902.9,872.7 902.9,944 "
+             id="polygon407"
+             style="fill:#ffff00" />
+        </g>
+        <path
+           d="m 902.96752,943.91555 0,-94.86585 21.76496,0 0,94.86585 -21.76496,0 z m 0,0 0.01,0"
+           id="path409"
+           inkscape:connector-curvature="0"
+           style="stroke:#000000;stroke-width:1.15072584" />
+        <g
+           style="stroke:none;shape-rendering:crispEdges"
+           id="g411"
+           transform="matrix(0.99730375,0,0,1.1385917,3.2492454,-130.86701)">
+          <polygon
+             points="1216.1,944 1216.1,887.1 1194.2,887.1 1194.2,944 "
+             id="polygon413"
+             style="fill:#ffff00" />
+        </g>
+        <path
+           d="m 1194.2294,943.96355 0,-64.67201 21.7412,0 0,64.67201 -21.7412,0 z m 0,0 0.01,0"
+           id="path415"
+           inkscape:connector-curvature="0"
+           style="stroke:#000000;stroke-width:1.06560862" />
+      </g>
+    </g>
+    <g
+       style="fill:none; color:black; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter"
+       id="g417">
+      <path
+         stroke="black"
+         d="M210.0,54.1 L210.0,944.0 L1375.0,944.0 L1375.0,54.1 L210.0,54.1 Z  h0.01"
+         id="path419" />
+    </g>
+  </g>
+</svg>

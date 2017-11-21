@@ -1,0 +1,29 @@
+set auto x
+set logscale y
+set format y "%.2f"
+set tics font "Times-Roman,20"
+set xlabel font "Times-Roman,25" "Nombre de mesure" offset 0,-2,0
+set ylabel font "Times-Roman,25" "Temps en microseconde (us)" offset -8,0,0
+set title font "Times-Roman,30"
+set style data histogram
+set style histogram cluster gap 2
+set style fill solid border -1
+set boxwidth 0.9
+set key outside below
+set xtic rotate by -45 scale 100
+set terminal svg size 1400,1250
+set lmargin at screen 0.15
+set bmargin at screen 0.10
+set key font ",25"
+set key height 4 width 18 maxrows 4 maxcols 3 spacing 3
+set bmargin 17
+
+set title "Changement de contexte"
+set output "Graph/context.svg"
+plot 'output.dat' using 7:xtic(1) ti col fc rgb "#FF0000", '' u 8 ti col fc rgb "#000000", '' u 9 ti col fc rgb "#00FFFF", '' u 10 ti col fc rgb "#00FF00", '' u 11 ti col fc rgb "#6C6C6C", '' u 12 ti col fc rgb "#FF00FF", '' u 13 ti col fc rgb "#743500", '' u 14 ti col fc rgb "#006400", '' u 15 ti col fc rgb "#0000FF", '' u 16 ti col fc rgb "#FFFF00"
+set title "Allocation mémoire"
+set output "Graph/memoire.svg"
+plot 'output.dat' using 2:xtic(1) ti col fc rgb "#FF0000", '' u 3 ti col fc rgb "#FF8000", '' u 4 ti col fc rgb "#006400", '' u 5 ti col fc rgb "#0000FF", '' u 6 ti col fc rgb "#FF00FF"
+set title "Création et attente de la terminaison"
+set output "Graph/create.svg"
+plot 'output.dat' using 17:xtic(1) ti col fc rgb "#FF0000", '' u 18 ti col fc rgb "#0000FF"

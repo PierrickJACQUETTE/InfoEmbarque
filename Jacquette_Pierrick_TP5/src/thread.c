@@ -106,7 +106,7 @@ int thread(int* heritage){
         varThread->mutex = &mutex;
         varThread->inversion = &inversion;
         varThread->resultat = &resultat;
-        sched.sched_priority = (i==0)? sched_get_priority_max(policity) : (i==1)? priority : priority/2;
+        sched.sched_priority = (i==0)? sched_get_priority_max(policity) : (i==1)? priority+(priority/2) : priority;
         error = pthread_attr_setschedparam(&attr, &sched);
         ERROR_DIFFZERO(error, "Error  attr pthread_attr_setschedparam in thread : thread.c");
         void* fonction = NULL;

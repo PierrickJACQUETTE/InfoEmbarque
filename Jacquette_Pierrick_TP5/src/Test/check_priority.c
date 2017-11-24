@@ -9,7 +9,7 @@
 */
 void checkThread(int * heritage, int* resultatSouhaite){
 	int i;
-	for(i=0; i<NB; i++){
+	for(i=0; i<nb; i++){
 		int resultatObtenu = thread(heritage);	// tableau du resultat de la fonction
 		ck_assert_int_eq(resultatObtenu, *resultatSouhaite);
 	}

@@ -1,7 +1,7 @@
 # JACQUETTE Pierrick Tp5
 
 CC = gcc
-CFLAGS = -Wall -pthread -m32
+CFLAGS = -Wall -pthread
 EXEC  = tp5
 HEADERS = $(wildcard *.h)
 OBJECTS = $(patsubst %.c, %.o, $(wildcard *.c))
@@ -16,6 +16,9 @@ tp5: $(OBJECTS)
 
 run:all
 	sudo ./tp5
+
+install:
+	sudo apt-get install check
 
 clean:
 	rm -f *.o

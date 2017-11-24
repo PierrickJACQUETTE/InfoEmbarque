@@ -1,12 +1,12 @@
 //JACQUETTE Pierrick Tp5
 
-#ifndef __CHECK_COLIMACON_H__
-#define __CHECK_COLIMACON_H__
+#ifndef __CHECK_PRIORITY_H__
+#define __CHECK_PRIORITY_H__
 
 #include <check.h>
 #include "../thread.h"
 
-#define NB 1000
+int nb;
 
 /**
  * fonction permettant de creer la suite des tests a executer

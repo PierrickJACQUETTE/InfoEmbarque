@@ -1,7 +1,7 @@
 #JACQUETTE Pierrick Tp5
 
 CC = gcc
-CFLAGS = -Wall -32
+CFLAGS = -Wall
 LDFLAGS = $(CFLAGS)
 LDLIBS =  $(shell pkg-config --libs check)
 EXEC 	  = check_main

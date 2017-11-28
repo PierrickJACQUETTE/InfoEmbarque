@@ -36,5 +36,9 @@ int parseArgument(int argc, char const *argv[], int* heritage){
     if(argc >= 2){
         (*heritage) = atoi(argv[1]);
     }
+	if(*heritage != 0 && *heritage !=1){
+		fprintf(stderr, "\nMerci de rentrer soit 0 (inversion) soit 1(pas d'inversion)");
+		return EXIT_FAILURE;
+	}
     return EXIT_SUCCESS;
 }

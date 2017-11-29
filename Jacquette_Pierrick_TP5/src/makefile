@@ -22,8 +22,11 @@ check: $(TEST_DIR)/check_main.o thread.o annexe.o $(TEST_DIR)/check_priority.o
 
 check_priority:
 
-run:all
+runHeritage:all
 	sudo ./tp5
+
+runNoHeritage:all
+	sudo ./tp5 1
 
 runCheck:
 	sudo ./check
